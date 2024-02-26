@@ -6,3 +6,4 @@ with open('dataMaster/data.txt', 'r') as file:
         print(line.strip())
 
 # some comment
+# some other comment
